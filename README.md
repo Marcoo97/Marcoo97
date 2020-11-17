@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 Focus on Java/Cloud native/BlockChain
+- 🔭 Focus on Java / Cloud native / BlockChain
